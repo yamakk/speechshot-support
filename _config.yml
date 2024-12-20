@@ -45,6 +45,10 @@ features                                  :
     description                           : Measure precision and speed, archive your progress, and analyze results to continually improve your delivery.
     fontawesome_icon_name                 : chart-line
 
+  - title                                 : Flexible Plans
+  - description                           : Begin free with essential features, or upgrade to Premium for ad-free use, unlimited history, enhanced precision, and extended character limits.
+  - fontawesome_icon_name                 : crown
+
 
 # Theme Settings
 topbar_color                              : "#000000"
