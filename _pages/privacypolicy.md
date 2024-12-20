@@ -19,7 +19,7 @@ This app is designed with simplicity and privacy in mind. Here’s what you need
 
 Your Data, Your Control: We do not share or sell your data. Everything stays on your device.
 
-For any questions, contact us at:
+For any questions, contact us at: speechshot@gmail.com 
 
 
 
