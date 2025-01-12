@@ -11,7 +11,7 @@ include_in_header: false
 We respect your privacy. This policy explains how we handle your data when you use our app.
 
 ## 1. Local Data Storage
-All speech data and practice history are stored locally on your device. We do not send this data to external servers.
+All speech recoginition text and practice history are stored locally on your device. We do not send this data to external servers.
 
 ## 2. Subscription Management (RevenueCat)
 We use RevenueCat to manage subscriptions. When you verify your subscription, some non-personal information, such as installation IDs, may be sent to RevenueCat.  
