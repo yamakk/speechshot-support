@@ -30,7 +30,7 @@ email_address                             : speechshot@gmail.com
 features                                  :
 
   - title                                 : Privacy First
-    description                           : All data is stored locally on your device, ensuring complete privacy with no cloud storage or external uploads.
+    description                           : All data is stored locally on your device — no cloud storage or external uploads.
     fontawesome_icon_name                 : lock
 
   - title                                 : Ad-free
@@ -38,11 +38,11 @@ features                                  :
     fontawesome_icon_name                 : crown
     
   - title                                 : Real-Time Speech Comparison
-    description                           : Speak any text aloud and instantly see where your words differ from the original for precise, accurate feedback.
+    description                           : Speak your text aloud and see where your words differ from the original.
     fontawesome_icon_name                 : microphone
     
   - title                                 : Multi-Language
-    description                           : Supports more than 20 languages to improve pronunciation, clarity, and fluency, whether for work, study, or fun.
+    description                           : Supports more than 20 languages.
     fontawesome_icon_name                 : globe
 
   - title                                 : Performance Tracking and Analysis
