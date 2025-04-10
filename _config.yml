@@ -46,7 +46,7 @@ features                                  :
     fontawesome_icon_name                 : globe
 
   - title                                 : Performance Tracking and Analysis
-    description                           : Measure precision and speed, archive your progress, and analyze results to continually improve your delivery.
+    description                           : Measure precision and speed, archive your progress.
     fontawesome_icon_name                 : chart-line
 
 
