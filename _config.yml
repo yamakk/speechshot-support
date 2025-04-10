@@ -29,6 +29,14 @@ email_address                             : speechshot@gmail.com
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : Privacy First
+    description                           : All data is stored locally on your device, ensuring complete privacy with no cloud storage or external uploads.
+    fontawesome_icon_name                 : lock
+
+  - title                                 : Ad-free
+    description                           : No ads. Just a clean and uninterrupted experience.
+    fontawesome_icon_name                 : crown
+    
   - title                                 : Real-Time Speech Comparison
     description                           : Speak any text aloud and instantly see where your words differ from the original for precise, accurate feedback.
     fontawesome_icon_name                 : microphone
@@ -37,17 +45,9 @@ features                                  :
     description                           : Supports more than 20 languages to improve pronunciation, clarity, and fluency, whether for work, study, or fun.
     fontawesome_icon_name                 : globe
 
-  - title                                 : Privacy
-    description                           : All data is stored locally on your device, ensuring complete privacy with no cloud storage or external uploads.
-    fontawesome_icon_name                 : lock
-
   - title                                 : Performance Tracking and Analysis
     description                           : Measure precision and speed, archive your progress, and analyze results to continually improve your delivery.
     fontawesome_icon_name                 : chart-line
-
-  - title                                 : Flexible Plans
-    description                           : Begin free with essential features, or upgrade to Premium for ad-free use, unlimited history, enhanced precision, and extended character limits.
-    fontawesome_icon_name                 : crown
 
 
 # Theme Settings
